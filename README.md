@@ -40,6 +40,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/manoel-laranjeira-49158035a/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mvclr1@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Mvclr))
+[![Linkedin](https://img.shields.io/badge/-Mvclr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/manoel-laranjeira-49158035a/)
+[![Gmail Badge](https://img.shields.io/badge/-mvclr1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mvclr1@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Mvclr?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Mvclr))
